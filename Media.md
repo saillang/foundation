@@ -15,7 +15,22 @@ To find the original URL, take the number of the filename and use it in the URL 
 - https://svgsilh.com/image/304361.html
 - https://svgsilh.com/image/3248805.html
 
+### for purchase
+
+- [canstockphoto boat/yacht](https://www.canstockphoto.com/boat-yacht-isolated-vector-icon-7838491.html)
+- [red square logo](https://www.canstockphoto.com/boat-with-sails-icon-digital-red-50803286.html) (actually, this one is very nice, just needs relief and color change) 
+  - and [similar/alternate version](https://www.canstockphoto.com/sail-boat-sign-37423315).
+- a bunch more:
+  - https://www.canstockphoto.com/boat-yacht-isolated-vector-icon-7838491.html
+  - https://www.canstockphoto.com/sail-boat-icon-isolated-30897441.html
+  - https://www.canstockphoto.com/boat-with-sails-icon-digital-red-50803286.html
+  - https://www.canstockphoto.com/boat-with-sails-icon-digital-blue-66463907.html <- write sail underneath this one and it would be spot on
+
 ## Other Media
 
 There is other media in `/media/` arranged by license for any use (if any).
 
+### Public Domain URLs
+
+- https://www.publicdomainpictures.net/en/view-image.php?image=255462&picture=sailing-ship
+- https://www.iconfinder.com/icons/2447176/boat_ocean_sea_ship_small_yacht_yachting_icon
